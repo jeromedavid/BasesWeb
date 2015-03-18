@@ -1,0 +1,7 @@
+Plugin/*
+nbproject/*
+Images/
+!Plugin/.htaccess
+# Commentaires
+/nbproject/private/
+OLD_FILES/*
