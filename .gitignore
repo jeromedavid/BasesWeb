@@ -3,5 +3,5 @@ nbproject/*
 Images/
 !Plugin/.htaccess
 # Commentaires
-/nbproject/private/
+nbproject/private/
 OLD_FILES/*

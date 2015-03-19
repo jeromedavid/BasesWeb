@@ -4,7 +4,8 @@
 	require("inc/db_connect.php");
 	
 	//print_r($dbh);
-	
+
+
 
 	$maPage = "";
 	$changerbackground = false;
@@ -92,7 +93,7 @@
 </div>
 
 <div class="sectionFooter">
-	<?php include ($rep_inc."footer.php"); ?>
+	<?php include ($rep_inc."footer.php");   ?>
 </div>
 
 
