@@ -1,7 +1,7 @@
 <?php
 
 //$msg = (isset($_GET['msg']) ? $_GET['msg'] : "");
-session_start();
+//session_start();
 echo "SESSION ACTIVEE\n";
 
 /*

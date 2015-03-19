@@ -1,7 +1,7 @@
 <?php
 
 
-	require("inc/db_connect.php");
+	require("all.php");
 	
 	//print_r($dbh);
 
@@ -11,6 +11,9 @@
 	$changerbackground = false;
 	$rep_inc = "/inc/";
 
+    $articlecontroller = new ArticleController($repo);
+    
+    
 	if (isset($_GET["page"])&&($_GET["page"]!=""))
 	{
 
